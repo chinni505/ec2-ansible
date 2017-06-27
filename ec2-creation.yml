@@ -13,7 +13,7 @@
          region: "us-west-2"
          instance_type: t2.micro
          image: "ami-4836a428"
-         key_name: sandp1
+         key_name: chinni505
          group_id: sg-c58b02be
          vpc_subnet_id: subnet-83d969e4
          count: 1
